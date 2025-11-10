@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tasphiabariadrita
-- 👀 I’m interested in ..Game Devlopment,Animation & Web Development .
-- 🌱 I’m currently learning ...Graphics .
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ..3D Modelling,Animation & Web Development .
+- 🌱 I’m currently learning ...Graphics , Animation,3D Modelling.
 - 📫 How to reach me ...tasphiabariadrita@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I think i am funny.
